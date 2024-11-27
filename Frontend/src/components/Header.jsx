@@ -82,7 +82,7 @@ function Header() {
               className="text-4xl font-medium cursor-pointer"
               onClick={handleHomeNavigate}
             >
-              Luxera
+              E-commerce
             </h2>
 
             {/* Search input for larger screens */}
